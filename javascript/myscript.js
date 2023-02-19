@@ -192,7 +192,7 @@ cantho.insertAdjacentHTML('afterend', '<div class="author mt-5"><div class="row"
 
 // Phần popup khi bạn nhấn vào nút "Nhịp tim của anh"
 document.querySelector('.Description .modal-title').innerHTML = '<i class="far fa-comment-alt"></i>&nbsp;Haiz...';
-document.querySelector('.Description .modal-body').innerHTML = 'Bấm close rồi chọn chữ click vào bên trên trái tim đi <i class="fas fa-heart"></i> ';
+document.querySelector('.Description .modal-body').innerHTML = 'Biết ngay là bấm vào đây mà :) <br> Bấm close rồi chọn chữ click vào bên trên trái tim đi <i class="fas fa-heart"></i> ';
 var author = document.querySelector('.author .me');author.style.opacity = "0.5";
 
 author.innerHTML = "Mọi thắc mắc bạn có thể liên hệ<a href='https://www.facebook.com/PhungQuocDinh/'>Quốc Định<a>";
